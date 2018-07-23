@@ -35,3 +35,9 @@ running 人名对齐.py，new a forder to save the json file you get.
 
 * third step<br>
 running 情感识别.py，new a forder to save the json file you get.
+
+Output instance
+------
+* Output of hanlp.java——人名序列example
+* Output of 人名对齐.py——movie_actor_nick_2018_example/...json
+* Output of 情感识别.py——movie_actor_score_2018_example/...json
