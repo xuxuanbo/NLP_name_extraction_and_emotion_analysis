@@ -9,7 +9,7 @@ Main codes
 
     Using `hadoop` to process big data,including get data from database and call jar of hanlp to do the word segementation.<br><br>
     It's OK if you don't know how to run a hadoop project.`Hanlp` has supported both python and java.This file just do the word segementation of the movie comments we acquired before. `What you have to do is to write the appropriate program using the CRF algorithm and HMM algorithm of the hanlp to get the Name sequence and Proper noun sequence.`<br><br>
-    You could check the result in the file named `a`.
+
 * name_extraction.py
 
     Using editDistance and jaccardDistance , web searching to extract actor's name from extraction and build the mapping of the actors and nicknames.
